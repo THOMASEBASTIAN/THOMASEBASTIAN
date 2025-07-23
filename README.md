@@ -1,70 +1,70 @@
-<h1 align="center">Hola, mucho gusto 👋 Mi nombre es Thomas Sebastián Bastos García</h1>
-<h3 align="center">Me apasiona mucho el desarrollo web.</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Thomas%20Sebastián%20Bastos%20García&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header" />
+</p>
+
+<h2 align="center">💻 Desarrollador Web | Apasionado por la Tecnología | Innovador Creativo</h2>
+
+---
+
+### 👋 Sobre mí
+
+Hola, soy **Thomas Sebastián Bastos García**, un desarrollador web en constante aprendizaje. Me apasiona crear soluciones digitales funcionales, visualmente atractivas y accesibles para todos.
+
+- 🔭 Actualmente trabajando en proyectos de desarrollo web frontend y backend.
+- 🌱 Aprendiendo más sobre **Node.js**, **MongoDB**, y **APIs RESTful**.
+- 👯 Colaborando en proyectos como **Kario-Media** y una página temática de Fórmula 1.
+- 💬 Pregúntame sobre desarrollo web, Git, bases de datos o JavaScript.
+- 📫 Contáctame en: **thomabastos.us@gmail.com**
+
+---
+
+### 🚀 Proyectos destacados
+
+- 👥 Proyecto colaborativo: **Kario-Media**
+- 🏎 [F1 Página Interactiva](https://juansantoyoj.github.io/Proyecto-S1-JavaScript-BastosThomasSantoyoJuan/)
+
+---
+
+### 🌐 Conéctate conmigo
+<p align="left">
+  <a href="mailto:thomabastos.us@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/THOMASEBASTIAN"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧰 Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=THOMASEBASTIAN&label=Profile%20views&color=0e75b6&style=flat" alt="THOMASEBASTIAN" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+</p>
+
+---
+
+### 📊 Estadísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=THOMASEBASTIAN&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THOMASEBASTIAN&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=THOMASEBASTIAN" alt="THOMASEBASTIAN" />
-  </a>
-</p>
-
----
-
-### 🚀 Trabajos colaborativos
-
-- Proyecto colaborativo con **Kario-Media**
-- [🌐 F1 Página](https://juansantoyoj.github.io/Proyecto-S1-JavaScript-BastosThomasSantoyoJuan/)
-
-📧 **Mi Gmail:** thomabastos.us@gmail.com
-
----
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<!-- Aquí puedes añadir redes sociales si quieres -->
-</p>
-
----
-
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=THOMASEBASTIAN&theme=onedark" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=THOMASEBASTIAN&show_icons=true&locale=en&layout=compact" alt="THOMASEBASTIAN" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
-
 
 
