@@ -2,12 +2,12 @@
 <h3 align="center">Me apasiona mucho el desarrollo web.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thomasebastian&label=Profile%20views&color=0e75b6&style=flat" alt="thomasebastian" />
+  <img src="https://komarev.com/ghpvc/?username=THOMASEBASTIAN&label=Profile%20views&color=0e75b6&style=flat" alt="THOMASEBASTIAN" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thomasebastian" alt="thomasebastian" />
+    <img src="https://github-profile-trophy.vercel.app/?username=THOMASEBASTIAN" alt="THOMASEBASTIAN" />
   </a>
 </p>
 
@@ -63,6 +63,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasebastian&show_icons=true&locale=en&layout=compact" alt="thomasebastian" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=THOMASEBASTIAN&show_icons=true&locale=en&layout=compact" alt="THOMASEBASTIAN" />
 </p>
+
+
 
