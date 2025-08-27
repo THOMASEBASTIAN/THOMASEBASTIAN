@@ -21,8 +21,8 @@ Hola, soy **Thomas Sebastián Bastos García**, un desarrollador web en constant
 
 ### 🚀 Proyectos destacados
 
-- 👥 Proyecto colaborativo: **Kario-Media**
-- 🏎 [F1 Página Interactiva](https://juansantoyoj.github.io/Proyecto-S1-JavaScript-BastosThomasSantoyoJuan/)
+- 👥 [Kario_Media](https://thomasebastian.github.io/Kario_Medua/)
+- 🏎 [F1 Página Interactiva](https://juansantoyoj.github.io/Formula_1/)
 
 ---
 
